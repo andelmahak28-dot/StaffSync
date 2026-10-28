@@ -1,0 +1,6 @@
+{
+  "name": "StaffSync - Modern HRM Solution",
+  "description": "Enterprise Human Resource Management System with role-based access for HR, managers, and employees covering attendance tracking, leave workflows, team performance, training programs, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
